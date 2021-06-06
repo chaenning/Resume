@@ -1,9 +1,10 @@
 # 저를 소개합니다.
+
 ---
 
+## **기본 정보**
 <img src=chaeeun.jpg height=200 widht=200>  
 
-## **기본 정보**
 
 **이름** : 정채은 / Jeong Chaeeun   
 **생년월일** : 2001.4.3    
