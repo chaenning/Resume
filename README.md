@@ -1,7 +1,7 @@
-# 정채은
+# 저를 소개합니다.
 ---
 
-<img src=chaeeun.jpg height=150 widht=150>  
+<img src=chaeeun.jpg height=200 widht=200>  
 
 ## **기본 정보**
 
