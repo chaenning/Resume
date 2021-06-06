@@ -1,7 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 ---
 
-<img src=jce.png height=150 widht=150>  
+<img src=chaeeun.jpg height=150 widht=150>  
 
 ## **기본 정보**
 
