@@ -46,7 +46,7 @@
 
 
 ---------------
-## **Adress**
+## **Address**
 **github address** : [J-CE][github]    
 **SNS address** : [Instagram][instagram] / [Blog][blog]
  
