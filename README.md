@@ -3,7 +3,6 @@
 ---
 
 ## **기본 정보**
-<img src=chaeeun.jpg height=200 widht=200>  
 
 
 **이름** : 정채은 / Jeong Chaeeun   
